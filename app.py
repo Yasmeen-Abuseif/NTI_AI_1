@@ -1,4 +1,4 @@
 import numpy as np
-def hello(x = 100, y = 90):
+def hello(x = 1321, y = 545):
     print(x)
 hello()
